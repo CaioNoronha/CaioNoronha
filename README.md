@@ -19,7 +19,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-<a href="https://github.com/isnardsilva">
+<a href="https://github.com/CaioNoronha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaioNoronha&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaioNoronha&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>

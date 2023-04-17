@@ -1,6 +1,7 @@
 ## Hello, i'm Caio Noronha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 - 👨🏻‍💻 iOS Software Engineer
+- 👾 Game Developer
 - 👨🏻‍🎓 Graduated in Computer Science from the Catholic University of Brasília (UCB).
 -  Alumni of the Apple Developer Academy project (UCB).
 
@@ -8,11 +9,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)&nbsp;
 ![XCode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=gitlab)&nbsp;
-
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 
 <br><br>
 
